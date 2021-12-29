@@ -69,7 +69,7 @@ html, body {
 }
 
 /* media change for iphones*/
-/* not entirely sure what to do at thsi point in time*/ 
+/* not entirely sure what to do at thsi point in time*/
 @media only screen and (min-width: 414px) and (max-width: 767px) {
   body {font-size: 10px}
  /* Your Styles... */ }
